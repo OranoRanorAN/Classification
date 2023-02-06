@@ -1,4 +1,4 @@
-# Classification
+# Classification 分类和预测
 HW3 for Data Mining
 
 ## 分析目标
@@ -15,5 +15,7 @@ HW3 for Data Mining
 <p float="left" align="left">
   <img src="/分类算法/最终结果比较.png" / width="500">
 </p>
+
+本次数据分析语言为 **python**
 
 详细结果阐释见 **hw3.pdf**
