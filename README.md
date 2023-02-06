@@ -15,3 +15,5 @@ HW3 for Data Mining
 <p float="left" align="left">
   <img src="/分类算法/最终结果比较.png" / width="500">
 </p>
+
+详细结果阐释见 **hw3.pdf**
