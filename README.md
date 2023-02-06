@@ -9,8 +9,9 @@ HW3 for Data Mining
 1. 逻辑回归
 2. KNN
 3. 随机森林
-4. voting
 
-<p float="left" align="center">
-  <img src="/分类算法/最终结果.png" />
+### 算法结果比较
+（每种算法均取参数优化后的最终结果）
+<p float="left" align="left">
+  <img src="/分类算法/最终结果比较.png" / width="500">
 </p>
