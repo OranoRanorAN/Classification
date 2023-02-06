@@ -10,3 +10,7 @@ HW3 for Data Mining
 2. KNN
 3. 随机森林
 4. voting
+
+<p float="left" align="center">
+  <img src="/分类算法/最终结果.png" />
+</p>
