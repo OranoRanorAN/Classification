@@ -1,5 +1,7 @@
-# Classification 分类和预测
+# Classification 电信用户渠道类型分类预测
 HW3 for Data Mining
+
+
 
 ## 分析目标
 预测数据集“TeleComm_User_Info”中的“[渠道类型描述]”变量  
