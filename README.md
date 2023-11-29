@@ -1,7 +1,24 @@
-# Classification 电信用户渠道类型分类预测
+# Telecom User Channel Type Classification Prediction (Python)
 HW3 for Data Mining
 
+## Analysis Objectives
+Predict the variable  `Channel Type Description` in the dataset "TeleComm_User_Info."
+* Consider only users with `Channel Type Description` as `Social Channel` and `Own Channel`.
 
+### Classification Algorithms Used
+1. Logistic Regression
+2. K-Nearest Neighbors (KNN)
+3. Random Forest
+4. Neural Network
+5. Voting
+
+(The last two performed poorly and are not included in the final comparison results.)
+
+### Algorithm Comparison Results
+(Each algorithm uses the final results after paramete
+<p float="left" align="left">
+  <img src="/分类算法/最终结果比较.png" / width="500">
+</p>
 
 ## 分析目标
 预测数据集“TeleComm_User_Info”中的“[渠道类型描述]”变量  
